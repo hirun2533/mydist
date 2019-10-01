@@ -1,3 +1,4 @@
+import { DatePipe } from '@angular/common';
 
 
 export class Message {
@@ -5,10 +6,11 @@ export class Message {
     
     
     MyMessage : string;
-    timestamp: Date;
+    timestamp: string;
+    
 
 
-    constructor(MyMessage?: string, timestamp?: Date) 
+    constructor(MyMessage?: string, timestamp?: string) 
         { 
             
            this.MyMessage = MyMessage;

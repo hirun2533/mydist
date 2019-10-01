@@ -7,13 +7,12 @@
 <!-- * * * * * * * to get started with your project! * * * * * * * * -->
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 <h1>
-
-
     <app-my-image></app-my-image>
     <app-my-button></app-my-button>
 </h1>
+
 <div>
-  <li *ngFor ="let message of member"> {{message.timestamp}}, {{message.MyMessage}} </li>
+  <li *ngFor ="let message of PropertyMember">  {{message.MyMessage}}   {{message.timestamp}}</li>
 </div>
 
 

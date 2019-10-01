@@ -7,5 +7,5 @@ export class User {
 constructor(user ?: string) {
 
     this.user = user;
-}
+  }
 }

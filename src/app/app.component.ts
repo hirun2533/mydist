@@ -9,15 +9,13 @@ import { Message } from './models/message.model';
   styleUrls: ['./app.component.css']
 })
 
-
-
 export class AppComponent {
   title = 'mydist';
   
-member : Message[];
+  PropertyMember : Message[];
  
-constructor(messagesService: MessagesService){
- messagesService.MesseagesContainer();
- this.member = messagesService.callMessage();
-}
+ constructor(messagesService: MessagesService){
+    messagesService.MesseagesContainer();
+    this.PropertyMember = messagesService.callMessage();
+  }
 }

@@ -1,6 +1,7 @@
 # Mydist
 
-I finished number 1-5. 
+I finished question 1 to 5. 
+My github url : https://github.com/hirun2533/mydist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 

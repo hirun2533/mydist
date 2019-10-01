@@ -1,19 +1,34 @@
+  .is-liked {
+       
+    font-family: "sans-serif"; 
+    position:relative;
+    background-color: greenyellow;
+    width: 60px;
+    height: 30px;
+    font-size: 18px; 
+    margin-left:600px;
+     position:relative; 
+     top:-50px;
+}
 
   .Stylelike{
-        font-family: "Droid Sans";
-        width: 80px;
-        height: 40px;
-        font-size: 20px
+        font-family: "sans-serif"; 
+        width: 60px;
+        height: 30px;
+        font-size: 18px;
+        margin-left:600px;
+        position:relative; 
+        top:-50px;
     } 
 
-   .is-liked {
-       
-       font-family: "Droid Sans"; 
-       position:relative;
-       background-color: greenyellow;
-       width: 80px;
-       height: 40px;
-       font-size: 20px; 
-   }
-        
+    .StyleClick{
+        font-family: "sans-serif"; 
+        width: 60px;
+        height: 30px;
+        font-size: 18px;
+        margin-left:10px;
+        position:relative; 
+        top:-50px;
+    }
+
       
