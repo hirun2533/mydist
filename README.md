@@ -17,7 +17,8 @@ https://github.com/hirun2533/mydist
 
 
 3.Include a rough estimate of time spent on homework
- For this homework, I spent 3 days to finished. 
+
+For this homework, I spent 3 days to finished. 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
