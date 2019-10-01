@@ -1,8 +1,24 @@
 # Mydist
 
-I finished question 1 to 5. 
+Homework-2
 
-My github url : https://github.com/hirun2533/mydist
+Hirunya Hirunsirisombut
+9/30/2019
+
+1.My Url.
+https://github.com/hirun2533/mydist
+
+
+2.Road blocks and challenges “did not complete #4 and why”
+ 
+-I finished question 1-5.
+
+-As I understand, In extra credit, In the app component template below the image, if I add div in html, it will show up the messages that I created and timestamp. 
+
+
+3.Include a rough estimate of time spent on homework
+ For this homework, I spent 3 days to finished. 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
