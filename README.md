@@ -5,7 +5,6 @@ Homework-2
 Hirunya Hirunsirisombut
 9/30/2019
 
-I updated
 1.My Url.
 https://github.com/hirun2533/mydist
 
